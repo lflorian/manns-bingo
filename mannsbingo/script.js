@@ -1,4 +1,4 @@
-// Pool of words
+// Word Pool
 const wordPool = [
   "\"Premium-Tafelbild\"", "\"Schule ist keine Demokratie\"", "\"Çüş\"", "früher Schluss machen", "vorbereiteter Unterricht", "unvorbereiteter Unterricht",
   "keine Hausaufgaben", "inhaltslose Ankündigungen", "jemand fragt nach einem Wort an der Tafel", "\"funky b\"", "\"Bismarck-Bubble\"", 
@@ -10,16 +10,15 @@ const wordPool = [
   "\"man weiß es nicht\""
 ];
 
-// Get random word from the pool
 function getRandomWord() {
   return wordPool[Math.floor(Math.random() * wordPool.length)];
 }
 
-// Generate the table
+// Table
 function generateTable() {
   var table = document.getElementById("bingoTable");
 
-  // Clear previous table content
+  // Clear
   table.innerHTML = "";
 
   // Generate new table cells
@@ -35,9 +34,8 @@ function generateTable() {
   }
 }
 
-// Attach event listener to the button
+
 var button = document.getElementById("generateButton");
 button.addEventListener("click", generateTable);
 
-// Generate initial table on page load
 generateTable();
