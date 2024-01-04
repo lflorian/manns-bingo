@@ -1,4 +1,5 @@
 # bingo
+Preview der Phrasen
 "\"Premium-Tafelbild\"", "\"Schule ist keine Demokratie\"", "\"Çüş\"", "früher Schluss machen", "vorbereiteter Unterricht", "unvorbereiteter Unterricht",
     "keine Hausaufgaben", "inhaltslose Ankündigungen", "jemand fragt nach einem Wort an der Tafel", "\"funky b\"", "\"Bismarck-Bubble\"", 
     "Vergleich zur Tellkampfschule", "ausschweifende Geschichte", "über 15min \"Organisatorisches\"", "\"das Leben ist hart und die Schule bereitet darauf vor\"",
