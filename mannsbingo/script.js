@@ -24,7 +24,7 @@ const wordPool = [
   "Verl\u00E4sst den eigenen Unterricht",
   "Geschichte aus dem Lehrerzimmer",
   "\"Premium\"",
-  "\"Maschsee-Gesamtschule\"",
+  "\"Bismarck-Gesamtschule\"",
   "\"Bismarck-Bubble\"",
   "\"Fuck the Rich\"",
   "\"Schule ist keine Demokratie\"",
@@ -40,7 +40,7 @@ const wordPool = [
   "\"Leben ist Leiden sagt Buddha\"",
   "\"Dullis\"",
   "\"Wir m\u00FCssen was schaffen heute\"",
-  "\"Ich sage bewusst Jain\"",
+  "\"Ich sage bewusst jein\"",
   "\"Das wird ein Fest\"",
   "\"Man wei\u00DF es nicht\"",
   "\"Gesunder Menschenverstand\"",
@@ -49,10 +49,11 @@ const wordPool = [
   "\"Es wird doch alles gut\"",
   "\"hochwertig\"",
   "\"eiskalt\"",
-  "\"Erw\u00E4hnung Hanisch\"",
-  "\"Erw\u00E4hnung Kuhlemann\"",
-  "\"Erw\u00E4hnung Begemann\"",
-  "\"Erw\u00E4hnung Baxmann\""
+  "Erw\u00E4hnung Hanisch",
+  "Erw\u00E4hnung Kuhlemann",
+  "Erw\u00E4hnung Begemann",
+  "Erw\u00E4hnung Baxmann“,
+  "Ich m\u00F6chte diesen Teppich nicht kaufen"
 ];
 
 function getRandomWord() {
