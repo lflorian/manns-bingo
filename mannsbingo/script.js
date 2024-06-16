@@ -24,7 +24,7 @@ const wordPool = [
   "Verl\u00E4sst den eigenen Unterricht",
   "Geschichte aus dem Lehrerzimmer",
   "\"Premium\"",
-  "\"Bismarck-Gesamtschule\"",
+  "\"Maschsee-Gesamtschule\"",
   "\"Bismarck-Bubble\"",
   "\"Fuck the Rich\"",
   "\"Schule ist keine Demokratie\"",
